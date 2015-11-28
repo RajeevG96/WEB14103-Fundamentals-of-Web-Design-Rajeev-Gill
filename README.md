@@ -42,10 +42,10 @@
 
 #Projects
 
-Eyebombing Github
+[Eyebombing Photos](https://github.com/RajeevG96/EyeBombing)
 
-Union Hack Github
+[Union Hack](https://github.com/RajeevG96/TheUnionHack)
 
-OneTweet Github
+[OneTweet Github](https://github.com/RajeevG96/OneTweet)
 
 Code in my Plate Github
