@@ -48,4 +48,4 @@
 
 [OneTweet Github](https://github.com/RajeevG96/OneTweet)
 
-Code in my Plate Github
+[Code in my Plate Github](https://github.com/RajeevG96/Code-in-Your-Plate)
