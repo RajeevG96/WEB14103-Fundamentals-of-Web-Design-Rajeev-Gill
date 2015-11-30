@@ -27,7 +27,7 @@
 
 [Formative](https://github.com/RajeevG96/WEB14103-Fundamentals-of-Web-Design-Rajeev-Gill/blob/master/Formative%20matteo.pdf)
 
-[Summative]
+[Summative](https://docs.google.com/presentation/d/1eGV4uUrNa1qCL_Bq0xhCTMD1F1L2RG2t_-N_dKBzv1c/edit?usp=sharing)
 
 
 #Blogs
@@ -52,4 +52,4 @@
 
 [OneTweet Github](https://github.com/RajeevG96/OneTweet)
 
-[Code in my Plate Github](https://github.com/RajeevG96/Code-in-Your-Plate)
+[Code in my Plate Github (Pages)](http://rajeevg96.github.io/Code-In-Your-Plate/)
